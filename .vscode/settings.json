@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"testharness.h": "c",
+		"testplugin.h": "c",
+		"testfailure.h": "c",
+		"simplestring.h": "c",
+		"utestmacros.h": "c",
+		"testresult.h": "c",
+		"stdexcept": "cpp",
+		"functional": "cpp"
+	}
+}
